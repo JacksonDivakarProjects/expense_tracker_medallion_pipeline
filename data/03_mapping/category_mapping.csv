@@ -1,0 +1,35 @@
+raw_category,standard_category
+Apparel,Clothing & Apparel
+Clothing,Clothing & Apparel
+Deodrant,Personal Care & Grooming
+Grooming,Personal Care & Grooming
+Food,Food & Groceries
+Food And Grocery,Food & Groceries
+Food and Grocery,Food & Groceries
+Grocery,Food & Groceries
+Snacks,Food & Groceries
+Electricity,Utilities & Bills
+Utility Bills,Utilities & Bills
+Recharge,Utilities & Bills
+Backup,Savings & Investments
+Bonds,Savings & Investments
+Investment,Savings & Investments
+Savings,Savings & Investments
+Booking,Entertainment & Outing
+Outing,Entertainment & Outing
+Cashback,Income
+Stock Dividend,Income
+Commute,Transportation
+Fitness,Health & Fitness
+Goodness,Charity & Gifts
+Household,Household
+Household Essentials,Household
+Insurance,Insurance
+Learning,Education
+Lend,Loans & Transfers
+Cash Conversion,Loans & Transfers
+Month Lag,Adjustments
+Rent,Housing
+Repayment,Debt Repayment
+Unexpected,Miscellaneous
+Others,Miscellaneous

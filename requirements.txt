@@ -1,0 +1,18 @@
+# Google Cloud API for Drive extraction
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
+# Database engine for Medallion architecture
+duckdb
+pandas
+
+# Environment variable management
+python-dotenv
+
+# AI SDK for the Text-to-SQL agent
+openai
+
+openpyxl
+
+ipykernel
